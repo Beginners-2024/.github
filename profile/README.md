@@ -23,4 +23,4 @@
 **240701 시뮬레이션**: [감시](https://www.acmicpc.net/problem/15683), [스티커 붙이기](https://www.acmicpc.net/problem/18808)   
 **240703 다이나믹 프로그래밍** : [1로 만들기](https://www.acmicpc.net/problem/1463),  [1,2,3 더하기](https://www.acmicpc.net/problem/9095), [계단 오르기](https://www.acmicpc.net/problem/2579) (*실버라서 3문제로 해보았슴*)  
 **240705 (유형 추후 공개)** : [동전 0](https://www.acmicpc.net/problem/11047), [그림](https://www.acmicpc.net/problem/1926), [회의실 배정](https://www.acmicpc.net/problem/1931) (*실버 3문제용*)  
-**240708 BFS** : [토마토](https://www.acmicpc.net/problem/7576), [불!](https://www.acmicpc.net/problem/4179), [미로탐색](https://www.acmicpc.net/problem/2178)
+**240708 BFS** : [토마토](https://www.acmicpc.net/problem/7576), [불!](https://www.acmicpc.net/problem/4179), [미로탐색](https://www.acmicpc.net/problem/2178) (다음주 월요일 문제!)
