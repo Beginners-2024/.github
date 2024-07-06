@@ -18,12 +18,13 @@
 |날짜|주제|
 |--|--|
 |2024.07 1주차|BFS, 다이나믹 프로그래밍, 시뮬레이션, 그리디|
-|2024.07 2주차|BFS, 백트래킹, 이분탐색|
+|2024.07 2주차|BFS, 백트래킹, 이분탐색, 시뮬레이션|
 
 ## 문제 일정
 **240701 시뮬레이션**: [감시](https://www.acmicpc.net/problem/15683), [스티커 붙이기](https://www.acmicpc.net/problem/18808)   
 **240703 다이나믹 프로그래밍** : [1로 만들기](https://www.acmicpc.net/problem/1463),  [1,2,3 더하기](https://www.acmicpc.net/problem/9095), [계단 오르기](https://www.acmicpc.net/problem/2579) (*실버라서 3문제로 해보았슴*)  
 **240705 (유형 추후 공개)** : [동전 0](https://www.acmicpc.net/problem/11047), [그림](https://www.acmicpc.net/problem/1926), [회의실 배정](https://www.acmicpc.net/problem/1931) (*실버 3문제용*)  
 **240708 BFS** : [토마토](https://www.acmicpc.net/problem/7576), [불!](https://www.acmicpc.net/problem/4179), [미로탐색](https://www.acmicpc.net/problem/2178) (*BFS 마스터 가능*)   
-**240710 이분탐색** : [수 찾기](https://www.acmicpc.net/problem/1920), [숫자 카드 2](https://www.acmicpc.net/problem/10816), [좌표 압축](https://www.acmicpc.net/problem/18870)   
+**240709 이분탐색** : [수 찾기](https://www.acmicpc.net/problem/1920), [숫자 카드 2](https://www.acmicpc.net/problem/10816), [좌표 압축](https://www.acmicpc.net/problem/18870)   
+**240710 시뮬레이션** : [2048 (Easy)](https://www.acmicpc.net/problem/12100), [치킨 배달](https://www.acmicpc.net/problem/15686)   
 **240712 백트래킹** [N과 M(1)](https://www.acmicpc.net/problem/15649), [N-Queen](https://www.acmicpc.net/problem/9663) (*N-Queen 어려운 문제이기에 실버 1 골드 1 내겠습니다.*)
