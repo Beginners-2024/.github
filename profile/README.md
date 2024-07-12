@@ -27,4 +27,5 @@
 **240708 BFS** : [토마토](https://www.acmicpc.net/problem/7576), [불!](https://www.acmicpc.net/problem/4179), [미로탐색](https://www.acmicpc.net/problem/2178) (*BFS 마스터 가능*)   
 **240709 이분탐색** : [수 찾기](https://www.acmicpc.net/problem/1920), [숫자 카드 2](https://www.acmicpc.net/problem/10816), [좌표 압축](https://www.acmicpc.net/problem/18870)   
 **240710 시뮬레이션** : [2048 (Easy)](https://www.acmicpc.net/problem/12100), [치킨 배달](https://www.acmicpc.net/problem/15686)   
-**240712 백트래킹** [N과 M(1)](https://www.acmicpc.net/problem/15649), [N-Queen](https://www.acmicpc.net/problem/9663) (*N-Queen 어려운 문제이기에 실버 1 골드 1 내겠습니다.*)
+**240712 백트래킹** [N과 M(1)](https://www.acmicpc.net/problem/15649), [N-Queen](https://www.acmicpc.net/problem/9663) (*N-Queen 어려운 문제이기에 실버 1 골드 1 내겠습니다.*)   
+**240715** [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)    
