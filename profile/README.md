@@ -19,7 +19,7 @@
 |--|--|
 |2024.07 1주차|BFS, 다이나믹 프로그래밍, 시뮬레이션, 그리디|
 |2024.07 2주차|BFS, 백트래킹, 이분탐색, 시뮬레이션|
-|2024.07 3주차|트리, 그리디, 그래프, 투포인터, 해시|
+|2024.07 3주차|트리, 그리디, 그래프, 투포인터, 해시, BFS|
 
 ## 문제 일정
 **240701 시뮬레이션**: [감시](https://www.acmicpc.net/problem/15683), [스티커 붙이기](https://www.acmicpc.net/problem/18808)   
@@ -32,5 +32,5 @@
 **240715 트리, 그리디** : [트리의 부모 찾기](https://www.acmicpc.net/problem/11725), [트리 순회](https://www.acmicpc.net/problem/1991), [로프](https://www.acmicpc.net/problem/2217), [보물](https://www.acmicpc.net/problem/1026)    
 **240716 그래프** : [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)      
 **240717 해시** : [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620), [수강신청](https://www.acmicpc.net/problem/13414)  
-**240719** [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
+**240719 BFS** : [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
 **240722** [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)  
