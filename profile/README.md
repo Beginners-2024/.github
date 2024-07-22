@@ -36,4 +36,4 @@
 **240719 BFS** : [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
 **240722 투포인터** : [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)  
 **240723** [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [트럭](https://www.acmicpc.net/problem/13335)      
-**240724** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430)             
+**240724** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)             
