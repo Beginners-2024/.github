@@ -34,4 +34,5 @@
 **240717 해시** : [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620), [수강신청](https://www.acmicpc.net/problem/13414)  
 **240719 BFS** : [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
 **240722** [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)  
+**240723** [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [트럭](https://www.acmicpc.net/problem/13335)      
 **240724** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430)             
