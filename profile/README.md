@@ -37,3 +37,4 @@
 **240722 투포인터** : [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)  
 **240723 시뮬레이션, BFS** : [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [토마토](https://www.acmicpc.net/problem/7569)      
 **240724** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)             
+**240726** [경사로](https://www.acmicpc.net/problem/14890), [절댓값 힙](https://www.acmicpc.net/problem/11286), [카드 정렬하기](https://www.acmicpc.net/problem/1715)    
