@@ -20,7 +20,7 @@
 |2024.07 1주차|BFS, 다이나믹 프로그래밍, 시뮬레이션, 그리디|
 |2024.07 2주차|BFS, 백트래킹, 이분탐색, 시뮬레이션|
 |2024.07 3주차|트리, 그리디, 그래프, 해시, BFS|
-|2024.07 4주차|투포인터, 시뮬레이션, BFS|
+|2024.07 4주차|투포인터, 시뮬레이션, BFS, 덱, 우선순위 큐|
 
 ## 문제 일정
 **240701 시뮬레이션**: [감시](https://www.acmicpc.net/problem/15683), [스티커 붙이기](https://www.acmicpc.net/problem/18808)   
@@ -36,5 +36,6 @@
 **240719 BFS** : [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
 **240722 투포인터** : [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)  
 **240723 시뮬레이션, BFS** : [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [토마토](https://www.acmicpc.net/problem/7569)      
-**240724** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)             
-**240726** [경사로](https://www.acmicpc.net/problem/14890), [절댓값 힙](https://www.acmicpc.net/problem/11286), [카드 정렬하기](https://www.acmicpc.net/problem/1715)    
+**240724 덱** : [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)             
+**240726 우선순위 큐, 시뮬레이션** : [경사로](https://www.acmicpc.net/problem/14890), [절댓값 힙](https://www.acmicpc.net/problem/11286), [카드 정렬하기](https://www.acmicpc.net/problem/1715)    
+**240729** : [주사위 굴리기](https://www.acmicpc.net/problem/14499), [트럭](https://www.acmicpc.net/problem/13335), [구슬찾기](https://www.acmicpc.net/problem/2617)   
