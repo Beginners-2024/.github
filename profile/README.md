@@ -21,6 +21,7 @@
 |2024.07 2주차|BFS, 백트래킹, 이분탐색, 시뮬레이션|
 |2024.07 3주차|트리, 그리디, 그래프, 해시, BFS|
 |2024.07 4주차|투포인터, 시뮬레이션, BFS, 덱, 우선순위 큐|
+|2024.07 5주차|트리, 문자열, 시뮬레이션|
 
 ## 문제 일정
 **240701 시뮬레이션**: [감시](https://www.acmicpc.net/problem/15683), [스티커 붙이기](https://www.acmicpc.net/problem/18808)   
@@ -39,5 +40,5 @@
 **240724 덱** : [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)             
 **240726 우선순위 큐, 시뮬레이션** : [경사로](https://www.acmicpc.net/problem/14890), [절댓값 힙](https://www.acmicpc.net/problem/11286), [카드 정렬하기](https://www.acmicpc.net/problem/1715)    
 **240729** : [주사위 굴리기](https://www.acmicpc.net/problem/14499), [트럭](https://www.acmicpc.net/problem/13335), [구슬찾기](https://www.acmicpc.net/problem/2617)     
-**240730** : [트리](https://www.acmicpc.net/problem/4803), [트리와 쿼리](https://www.acmicpc.net/problem/15681), [듣보잡](https://www.acmicpc.net/problem/1764)   
+**240730 트리, 문자열** : [트리](https://www.acmicpc.net/problem/4803), [트리와 쿼리](https://www.acmicpc.net/problem/15681), [듣보잡](https://www.acmicpc.net/problem/1764)   
 **240801** : [List of Unique Numbers](https://www.acmicpc.net/problem/13144), [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862), [회전 초밥](https://www.acmicpc.net/problem/2531)          
