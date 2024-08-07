@@ -4,17 +4,33 @@
 <img width="400" alt="스크린샷 2024-07-01 오후 2 14 34" src="https://github.com/wanted-preonboarding-android-gyurim/android-preonboarding-Archive/assets/31344894/d588711a-28e4-44d2-8ca3-dd871c355909">
 
 ### 코딩테스트
+```
 1. 해당 날짜의 담당자가 두 개의 문제를 선정한다.(지선->규림->수환 순서로 진행)
+
 2. 각 문제는 유형이 달라야하며, 유형은 매주 선정한 4개의 유형 중 하나가 된다.
    - 유형은 [백준(BaaaaaaaaaaarkingDog) 문제집](https://www.acmicpc.net/workbook/top) 주제 중에서 선정
+
 3. 익일 오전 9시까지 문제의 풀이를 자신의 레포에 올려놓아야하며, 이때 '수도 코드, 시간 복잡도, 문제 소요시간'에 대한 정보도 포함되어야 한다.
+
 4. 다른 사람의 문제 풀이에 대한 피드백을 오전 10시 전까지 작성한다.
+
 5. 평일 하루 자율 휴무 (문제는 4일만 출제) but 휴무일에 대한 과제는 스스로 다른 날에 메꾸어야 한다. (놓치는 문제 발생 노노) 
+```
 
-### 면접
-(추후 기록 예정)
+### CS 스터디 
+```
+1. 일주일에 2회 진행하며 주제는 [Github 링크](https://github.com/gyoogle/tech-interview-for-developer)에서 순서대로 2~3개의 주제를 선정
 
-## 스케줄
+2. 요일마다 1개의 기술 스택 관련 학습을 진행할 예정 
+    - e.g. 수요일: OS, 토요일: Network
+
+3. 주제에 대해 공부한 내용을 개인 레포의 리드미 파일 형태로 제출
+
+4. 수요일, 토요일에 리뷰 진행하므로 해당 날짜 이전에 파일 제출 완료 필요
+```
+
+
+## 💻 코딩테스트 스케줄
 |날짜|주제|
 |--|--|
 |2024.07 1주차|BFS, 다이나믹 프로그래밍, 시뮬레이션, 그리디|
@@ -46,4 +62,21 @@
 **240805** : [가운데를 말해요](https://www.acmicpc.net/problem/1655), [최단경로](https://www.acmicpc.net/problem/1753), [최소비용 구하기2](https://www.acmicpc.net/problem/11779)      
 **240806** : [상범 빌딩](https://www.acmicpc.net/problem/6593), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206), [안전 영역](https://www.acmicpc.net/problem/2468)         
 **240809** : [사다리조작](https://www.acmicpc.net/problem/15684), [드래곤 커브](https://www.acmicpc.net/problem/15685), [공유기 설치](https://www.acmicpc.net/problem/2110)    
-**240812** : [로봇 청소기](https://www.acmicpc.net/problem/14503), [뱀](https://www.acmicpc.net/problem/3190), [테트로미노](https://www.acmicpc.net/problem/14500)             
+**240812** : [로봇 청소기](https://www.acmicpc.net/problem/14503), [뱀](https://www.acmicpc.net/problem/3190), [테트로미노](https://www.acmicpc.net/problem/14500)     
+
+
+## 📚 CS 스터디 스케줄  
+|날짜|주제|
+|--|--|
+|2024.08| OS, 네트워크|
+|2024.09| Java, 개인 기술 스택(Server, Mobile) 
+|2024.10| 알고리즘, DB, 자료구조, 디자인 패턴, 컴퓨터구조|
+
+## 주제 일정
+**2024.08 1주차**
+- OS 
+  - 운영체제란
+  - 프로세스 vs 스레드
+- Network 
+  - OSI 7계층
+  - TCP 3 way handshake & 4 way handshake  
